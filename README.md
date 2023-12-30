@@ -8,7 +8,7 @@ This Python script checks a website for daily events and sends notifications via
 - `requests` library (`pip install requests`)
 - `selenium` library (`pip install selenium`)
 - `beautifulsoup4` library (`pip install beautifulsoup4`)
-- `sinchsms` library (Install instructions can be found [here](https://www.sinch.com/docs/sms/rest/#install))
+- `sinchsms` library (Install instructions can be found [here](https://www.sinch.com))
 
 ## Configuration
 
