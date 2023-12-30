@@ -4,7 +4,7 @@ This Python script checks a website for daily events and sends notifications via
 
 ## Prerequisites
 
-- Python 3. x
+- Python 3.
 - `requests` library (`pip install requests`)
 - `selenium` library (`pip install selenium`)
 - `beautifulsoup4` library (`pip install beautifulsoup4`)
