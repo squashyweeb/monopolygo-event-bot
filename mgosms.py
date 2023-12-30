@@ -71,7 +71,7 @@ while True:
             print("Payload to be sent:")
             print(message_content)
 
-            # Sending SMS needs to be fixed
+            # Sending SMS
             to_numbers = 'your_phone_number'
             response = send_sms(to_numbers, message_content)
 
